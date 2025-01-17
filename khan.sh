@@ -4,7 +4,7 @@ echo "Enter your name"
 
 read name
 
-echo "your name is $name "
+echo "$name is learning git  "
 
 
 
